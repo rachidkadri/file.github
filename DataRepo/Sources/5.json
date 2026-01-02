@@ -1,0 +1,16 @@
+{
+  "name": "Test Source",
+  "type": "games",
+  "items": [
+    {
+      "id": "test-1",
+      "title": "Test Download",
+      "downloads": [
+        {
+          "quality": "default",
+          "uri": "magnet:?xt=urn:btih:XXXX"
+        }
+      ]
+    }
+  ]
+}
