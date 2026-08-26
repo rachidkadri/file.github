@@ -1,0 +1,16 @@
+{
+  "version": 1787770613644,
+  "totalFiles": 2,
+  "files": [
+    {
+      "id": "01",
+      "path": "Licenses/license-1787502883740-license-1787502883740.json",
+      "sha": "37544a4ca5e002f99ca474a2fe4c93caed3558606c804a504ec963b65f49482d"
+    },
+    {
+      "id": "02",
+      "path": "Licenses/license-1787770613450-license-1787770613450.json",
+      "sha": "aea5b2ddbfeda350b9af25923aae2ea5e0d4b3ba3a2af911cad04191f4f064b8"
+    }
+  ]
+}

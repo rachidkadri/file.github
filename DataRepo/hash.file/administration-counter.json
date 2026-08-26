@@ -1,0 +1,21 @@
+{
+  "version": 1787770522073,
+  "totalFiles": 3,
+  "files": [
+    {
+      "id": "01",
+      "path": "administration/services-services.json",
+      "sha": "607defe1c29fdae18d18db24372751ec5d43d027acdcb1bdf5cce21b4238fb32"
+    },
+    {
+      "id": "02",
+      "path": "administration/plan-services-plan-services.json",
+      "sha": "8ad40829ad93bf3f41398dcdfbd916a2473a641252ed8e060b2a42f618d749b9"
+    },
+    {
+      "id": "03",
+      "path": "administration/plans-plans.json",
+      "sha": "59656c24e9ddfe52dfaa0815537d640cc6fc88639c2250a8abfbf4b27a111270"
+    }
+  ]
+}

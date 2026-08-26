@@ -1,0 +1,56 @@
+{
+  "version": 1787769459287,
+  "totalFiles": 10,
+  "files": [
+    {
+      "id": "01",
+      "path": "series/the-blacklist-2013-00001.json",
+      "sha": "7c00de0814008d1af39fdb36f66963f5ac453369e0687d56a82e7089918db971"
+    },
+    {
+      "id": "02",
+      "path": "series/this-sea-will-overflow-2025-00002.json",
+      "sha": "01312dd7a819f0d1cd9d2b1a9020d63995b0fe1accc2b7d370fb0deb6126abd8"
+    },
+    {
+      "id": "03",
+      "path": "series/far-away-2024-00003.json",
+      "sha": "6613fa3ca1a8119807e404a997a8c84d2053cfb53ca13d749cb78c3ea0c04625"
+    },
+    {
+      "id": "04",
+      "path": "series/underground-2026-00004.json",
+      "sha": "aa315e32d20f48488bb778cdb158bceaa50be9074a615b893b82ca3c3aae7982"
+    },
+    {
+      "id": "05",
+      "path": "series/the-one-i-love-2026-00005.json",
+      "sha": "0e4ffe581ca62d0ef8fdab058610d93980e443bd47aeb4f0203cdbece027d828"
+    },
+    {
+      "id": "06",
+      "path": "series/off-campus-2026-00006.json",
+      "sha": "55d6b39b94fecda59b672654c2081ad8119562af379664499661d8551181986d"
+    },
+    {
+      "id": "07",
+      "path": "series/teach-you-a-lesson-2026-00007.json",
+      "sha": "e49779efa8c9fa3b91bdfdf4631643c33432e2adf6e778b2288046831ede883b"
+    },
+    {
+      "id": "08",
+      "path": "series/the-law-of-nature-2026-00008.json",
+      "sha": "b82020a2b2bd2d48ce87cf5c203c08f83abfa9cc3beb0da8d60f2922d8749e68"
+    },
+    {
+      "id": "09",
+      "path": "series/museum-of-innocence-2026-00009.json",
+      "sha": "7aac5c6760fba354398f14567a9c39ab9efdb46e26a8176797e39f4382a369b6"
+    },
+    {
+      "id": "10",
+      "path": "series/yellowstone-2018-00010.json",
+      "sha": "b33054bc1336aeff16683b467e2fcde0be45c35778a0378e9277cff60bec603b"
+    }
+  ]
+}

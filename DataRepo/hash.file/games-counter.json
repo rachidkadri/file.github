@@ -1,0 +1,21 @@
+{
+  "version": 1787703577434,
+  "totalFiles": 3,
+  "files": [
+    {
+      "id": "01",
+      "path": "games/grand-theft-auto-v-legacy-271590.json",
+      "sha": "ba4eafb25c296332961984296826480402f32cdefc135901186cebf8d42cb202"
+    },
+    {
+      "id": "02",
+      "path": "games/assassins-creed-black-flag-resynced-3751950.json",
+      "sha": "6bfc773cb567af15618ed423699444adddf4af65da39c12ecdaf790de9040e72"
+    },
+    {
+      "id": "03",
+      "path": "games/beast-of-reincarnation-2001760.json",
+      "sha": "2f9d18cb3d72a16d438b4951b51f7788b2729904323d103c75a7c044e832e2e0"
+    }
+  ]
+}

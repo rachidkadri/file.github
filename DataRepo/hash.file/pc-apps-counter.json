@@ -1,0 +1,16 @@
+{
+  "version": 1787770009231,
+  "totalFiles": 2,
+  "files": [
+    {
+      "id": "01",
+      "path": "pc-apps/internet-download-manager-00001.json",
+      "sha": "8a43b8fc08fdc7c6d00c77da3482817e2ea3901d71bb8e8ade508428e260cdd3"
+    },
+    {
+      "id": "02",
+      "path": "pc-apps/windows-11-version-25h2-august-2026-00002.json",
+      "sha": "6682d76d62568f8318b28b1d215c53d383556b533a6afb290399938d2e846315"
+    }
+  ]
+}
